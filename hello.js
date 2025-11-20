@@ -8,4 +8,7 @@ const c = ()=>{
  console.log("cccc")
  console.log("hiiii")
 }
+const f =()=>{
+    console.log("func f")
+}
 
