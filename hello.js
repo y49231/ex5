@@ -8,4 +8,7 @@ const e = ()=>{
  
     <h1>jjjjj</h1>
 }
+const f=()=>{
+    return console.log("func f")
+}
 
